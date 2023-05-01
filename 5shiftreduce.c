@@ -74,7 +74,7 @@ int main()
 	
 	// a is input string
 	printf("\nEnter a string: ");
-    scanf("%s", &a);
+    scanf("%s", a);
 	
 	// strlen(a) will return the length of a to c
 	c=strlen(a);
